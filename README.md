@@ -2,7 +2,7 @@
 - im interested in nintendo
 - im currently learning how to be good at smash bros
 - im looking to collaborate on [insert emulator name here]
-- you can check my [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA) or contact me on discord(KotLink#7799)
+- you can check my [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA) or contact me on discord(Niltok#7799)
 <a href="https://github.com/niltok64">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niltok64" alt="Profile Views Count">
