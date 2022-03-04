@@ -1,7 +1,3 @@
-- hi i'm niltok
-- im interested in nintendo
-- im currently learning how to be good at smash bros
-- im looking to collaborate on [insert emulator name here]
 - you can check my [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA) or contact me on discord(Niltok#7799)
 <a href="https://github.com/niltok64">
 <p align="center">
