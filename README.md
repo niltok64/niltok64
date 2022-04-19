@@ -1,4 +1,4 @@
-- you can check my [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA) or contact me on discord(Niltok#7799)
+- you can check my [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA) or contact me on discord(nilleh#7799)
 <a href="https://github.com/niltok64">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niltok64" alt="Profile Views Count">
