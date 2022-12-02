@@ -1,14 +1,9 @@
-- you can check my [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA) or contact me on discord(nilleh#7799)
-<a href="https://github.com/niltok64">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niltok64" alt="Profile Views Count">
-</p>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=niltok64&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
-
+# hi.
+my username's niltok64, but im known as nilleh on almost all other platforms.<br>
+## social medya:
+- my youtube can be found [here](https://www.youtube.com/@nilleh)
+- my mastodon is [@nilleh@masto.ai](https://masto.ai/@nilleh)
+- my discord is nilleh#7799
 
 <!---
 niltok64/niltok64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
